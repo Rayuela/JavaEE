@@ -12,7 +12,7 @@
     <title>Starter Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="template/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../template/css/bootstrap.min.css" rel="stylesheet">
 
   </head>
 
@@ -63,6 +63,6 @@
     </div><!-- /.container -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="template/js/bootstrap.min.js"></script>
+    <script src="../template/js/bootstrap.min.js"></script>
   </body>
 </html>
